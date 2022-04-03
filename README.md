@@ -5,8 +5,7 @@ This is an alternative C++ STL String Library With Buffer Manager. All methods b
 
 
 
-'Assignment Operator' 
-Automatic type conversion between C-strings under assignment.
+`Assignment Operator` Automatic type conversion between C-strings under assignment.
 
 ### [] Operator
 Retrieve positional char in String
