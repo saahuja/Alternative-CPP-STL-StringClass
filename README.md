@@ -1,4 +1,4 @@
-# Alternative-CPP-STL-StringLibrary
+# Alternative-CPP-STL-String-Library
 
 This is an alternative C++ STL String Library With Buffer Manager. All methods below can handle C-String as well. Interface includes the following functionality:
 
