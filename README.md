@@ -27,5 +27,5 @@ Given anIndex, and a size aCount, aCount number of characters will be erased fro
 Given aString, the String object will be compared based on all char values and return -1 for <, 0 if ==, and 1 if >.
 
 ### Find Method
-Given aSubString and anOffset, the starting index at which aSubstring exists will be returned if found. Otherwise
+Given aSubString and anOffset, the starting index at which aSubstring exists will be returned if found. Otherwise returns -1.
 
