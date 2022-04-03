@@ -1,6 +1,6 @@
 # Alternative-CPP-STL-StringClass
 
-This is an alternative C++ STL String Library With Buffer Manager. Interface includes the following functionality:
+This is an alternative C++ STL String Library With Buffer Manager. All methods below can handle C-String as well. Interface includes the following functionality:
 
 
 
@@ -8,7 +8,7 @@ This is an alternative C++ STL String Library With Buffer Manager. Interface inc
 ### Assignment Operator 
 Automatic type conversion between C-strings under assignment.
 
-### Bracket Operator
+### [] Operator
 Retrieve positional char in String
 
 ### + and += Operator
